@@ -1,5 +1,8 @@
 #  Dashboard_de_vendas_e_produtos_usando_utilizando_uma_Base_de_Dados_de_Ecommerce 📊
 
+![Vdeo-ezgif com-video-to-gif-converter](https://github.com/RodrigoAislan/Dashboard-de-vendas-e-produtos-usando-utilizando-uma-Base-de-Dados-de-E-commerce/assets/172406590/ebb471a6-208a-4a44-a2be-a610992003ac)
+
+
 ## Uma descrição do passo-a-passo da elaboração deste projeto pode ser encontrada [Aqui](https://medium.com/@rodrigoaislaan/dashboard-de-vendas-e-produtos-usando-utilizando-uma-base-de-dados-de-e-commerce-13f5006ce79c)
 
 📝 **Visão Geral do Projeto**
