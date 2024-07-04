@@ -7,7 +7,7 @@
 
 📝 **Visão Geral do Projeto**
 
-Neste projeto, foi desenvolvido um Dashboard, dentro do PowerBI, utilizando a base de dados utilizada neste projeto trata-se da base de dados pública “Brazilian E-Commerce Public Dataset by Olist”, do qual possui dados de e-commerce brasileiro de pedidos feitos na loja Olist. Estes dados são reais, do qual foram anonimizados e contém informações de 100 mil pedidos realizados entre os anos de 2016 e 2018 em diversos marketplaces no Brasil. Suas características permitem visualizar um pedido a partir de múltiplas dimensões: desde o status do pedido, preço, pagamento e desempenho do frete até a localização do cliente, atributos do produto e, finalmente, avaliações escritas pelos clientes.
+Neste projeto, foi desenvolvido um Dashboard utilizando o PowerBI, com a base de dados  “Brazilian E-Commerce Public Dataset by Olist”, do qual possui informações de e-commerce brasileiro de pedidos feitos na loja Olist. Estes dados são reais, anonimizados e contém informações de 100 mil pedidos realizados entre os anos de 2016 e 2018 em diversos marketplaces no Brasil. Suas características permitem visualizar um pedido a partir de múltiplas dimensões: desde o status do pedido, preço, pagamento e desempenho do frete até a localização do cliente, atributos do produto e, finalmente, avaliações escritas pelos clientes.
 
 
 🎯 **Objetivos:**
