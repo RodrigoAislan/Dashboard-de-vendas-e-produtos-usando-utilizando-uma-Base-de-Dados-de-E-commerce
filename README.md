@@ -14,7 +14,7 @@ O principal objetivos deste projeto é desenvolver um dashboard interativo no Po
 
 **As métricas para visualizações na nesta seção do dashboard incluem:**
 
-### Página 1:
+### Página 1 - Métricas de vendas e clientes
 
 • Total de Vendas
 
@@ -32,7 +32,9 @@ O principal objetivos deste projeto é desenvolver um dashboard interativo no Po
 
 • Total de Clientes x Meta Mental
 
+
 ### Página 2 — Métricas de Entregas e reviews
+
 
 • Média de Reviews por Categoria de Produto
 
